@@ -42,5 +42,4 @@ def adivina (num_aleatorio):
             break 
     return print("Felicidades número adivinado en: " + str(contador) + " intentos")
 
-    
 main() 
