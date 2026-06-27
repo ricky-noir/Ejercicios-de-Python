@@ -1,4 +1,4 @@
-numeros = input("Ingresa numeros: ").split()
+numeros = input().split()
 
 columna = int(numeros[1]) 
 fila= int(numeros[0]) 
